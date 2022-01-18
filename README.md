@@ -34,6 +34,16 @@ If you die at any time run python main.py again and you will restart from the be
 
 -------------------------------------------
 
+#### Tested On:
+
+1. Windows
+
+2. Raspberry Pi OS
+
+3. Ubuntu
+
+-------------------------------------------
+
 As I said this is one of my first projects, so any feedback is appreciated. 
 
 If you have any questions, put them in Issues. 

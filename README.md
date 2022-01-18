@@ -1,16 +1,14 @@
-The Scary Story - A Text Adventure
-
--------------------------------------------
+## The Scary Story - A Text Adventure
 
 This is a text adventure which I made in python 3 and is also one of my first projects.
 
--------------------------------------------
+-------
 
-Installation:
+## Installation:
 
 Make sure you have python 3 installed.
 
-Linux:
+#### Linux:
 
 Open a terminal and copy and paste the commands below.
 
@@ -22,7 +20,7 @@ Then, run python3 main.py
 
 If you die at any time run python3 main.py again and you will restart from the beginning.
 
-Windows:
+#### Windows:
 
 Download the zip file and extract it
 

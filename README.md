@@ -26,3 +26,11 @@ Open up a command prompt window and navigate to the directory where you extracte
 Run pip install -r requirements.txt
 Then, you can run python main.py
 If you die at any time run python main.py again and you will restart from the beginning.
+
+-------------------------------------------
+
+As I said this is one of my first projects, so any feedback is appreciated. 
+If you have any questions, put them in Issues. 
+And if you have any suggestions, put them in pull requests
+
+-a_twoyearold

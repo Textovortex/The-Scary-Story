@@ -44,9 +44,15 @@ If you die at any time run python main.py again and you will restart from the be
 
 -------------------------------------------
 
+#### Linux Dependencies:
+
 If you get any errors while installing the requirements, try upgrading pip then installing using the following command.
 
 pip install --upgrade pip setuptools
+
+The simpleaudio module also needs other dependencies which need to be installed using the following command.
+
+sudo apt-get install -y python3-dev libasound2-dev
 
 -------------------------------------------
 

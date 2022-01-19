@@ -42,6 +42,8 @@ If you die at any time run python main.py again and you will restart from the be
 
 3. Ubuntu
 
+4. ChromeOS Linux Terminal
+
 -------------------------------------------
 
 #### Linux Dependencies:
@@ -53,6 +55,8 @@ pip install --upgrade pip setuptools
 The simpleaudio module also needs other dependencies which need to be installed using the following command.
 
 sudo apt-get install -y python3-dev libasound2-dev
+
+This command is needed for the program to run on Debian variants of linux (Raspberry Pi OS ChromeOS.)
 
 -------------------------------------------
 

@@ -12,11 +12,11 @@ Make sure you have python 3 installed.
 
 Open a terminal and copy and paste the commands below.
 
-git clone https://github.com/atwoyearold14/The-Scary-Story.git && cd The-Scary-Story
+`git clone https://github.com/atwoyearold14/The-Scary-Story.git && cd The-Scary-Story
 
-pip3 install -r requirements.txt
+pip3 install -r requirements.txt`
 
-Then, run python3 main.py
+Then, run `python3 main.py`
 
 If you die at any time run python3 main.py again and you will restart from the beginning.
 
@@ -26,9 +26,9 @@ Download the zip file and extract it
 
 Open up a command prompt window and navigate to the directory where you extracted the zip file.
 
-Run pip install -r requirements.txt
+Run `pip install -r requirements.txt`
 
-Then, you can run python main.py
+Then, you can run `python main.py`
 
 If you die at any time run python main.py again and you will restart from the beginning.
 
@@ -50,11 +50,11 @@ If you die at any time run python main.py again and you will restart from the be
 
 If you get any errors while installing the requirements, try upgrading pip then installing using the following command.
 
-pip install --upgrade pip setuptools
+`pip install --upgrade pip setuptools`
 
 The simpleaudio module also needs other dependencies which need to be installed using the following command.
 
-sudo apt-get install -y python3-dev libasound2-dev
+`sudo apt-get install -y python3-dev libasound2-dev`
 
 This command is needed for the program to run on Debian variants of linux (Raspberry Pi OS ChromeOS.)
 

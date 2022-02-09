@@ -12,9 +12,9 @@ Make sure you have python 3 installed.
 
 Open a terminal and copy and paste the commands below.
 
-`git clone https://github.com/atwoyearold14/The-Scary-Story.git && cd The-Scary-Story
+`git clone https://github.com/atwoyearold14/The-Scary-Story.git && cd The-Scary-Story`
 
-pip3 install -r requirements.txt`
+`pip3 install -r requirements.txt`
 
 Then, run `python3 main.py`
 
